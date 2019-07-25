@@ -1,2 +1,2 @@
 # angularjstest
-Learning Angularjs  
+Sample Admin section using angular
